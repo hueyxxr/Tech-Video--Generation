@@ -1,0 +1,4 @@
+interface:
+  display_name: "科技感视频生成"
+  short_description: "从产品测评脚本到 Dreamina 科技感产品视频"
+  default_prompt: "分析这份产品测评脚本，筛选适合生成的产品镜头并进入审批流程。"
